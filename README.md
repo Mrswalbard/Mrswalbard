@@ -12,7 +12,7 @@ Oh damn he's like that shit made Corona!
 <3
 
 
-**Bold** and _Italic_ and `Code` text
+**Take care of yourselves**
 
 [www.soundcloud.com/andreas-lowing](url) and ![Image](src)
 ```
