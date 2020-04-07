@@ -7,14 +7,14 @@ It is only the beginging here for me, but I'm sure you'll understand that i'm do
 ## Mrswalbard Level Infinity
 What's happening in this join!?
 
-### VS. Humanity Level Infinty
+### VS. Humanity Level Infinity
 Oh damn he's like that shit made Corona!
 <3
 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.soundcloud.com/andreaslowing) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
