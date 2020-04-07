@@ -1,8 +1,8 @@
 ## Welcome to this README
 
 # Mrswalbard Level 1
-Hello World, i've succesfully launched this README. It's a pleasure to write to you and we're gonna make some good progress here! I'm writing because i've concluded that coding is the way to go, We are people who make life worth living through code.
-It is only the beginging here for me, but I'm sure you'll understand that i'm doing this because I know that it's worth helping other people out. 
+Hello World, I've succesfully launched this README. It's a pleasure to write to you and we're gonna make some good progress here! I'm writing because I've concluded that coding is the way to go, We are people who make life worth living through code.
+It is only the beginging here for me, but I'm sure you'll understand that I'm doing this because I know that it's worth helping other people out. 
 
 ## Mrswalbard Level Infinity
 What's happening in this join!?
@@ -12,7 +12,7 @@ Oh damn he's like that shit made Corona!
 <3
 
 
-**Bold** and _Italic_ and `Code` text
+**Take care of yourselves**
 
 [www.soundcloud.com/andreas-lowing](url) and ![Image](src)
 ```
