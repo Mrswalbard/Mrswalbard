@@ -14,7 +14,7 @@ Oh damn he's like that shit made Corona!
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](www.soundcloud.com/andreaslowing) and ![Image](src)
+[www.soundcloud.com/andreaslowing](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
