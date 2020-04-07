@@ -1,25 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to this README
 
-You can use the [editor on GitHub](https://github.com/Mrswalbard/Mrswalbard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Mrswalbard Level 1
+Hello World, i've succesfully launched this README. It's a pleasure to write to you and we're gonna make some good progress here! I'm writing because i've concluded that coding is the way to go, We are people who make life worth living through code.
+It is only the beginging here for me, but I'm sure you'll understand that i'm doing this because I know that it's worth helping other people out. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mrswalbard Level Infinity
+What's happening in this join!?
 
-### Markdown
+### VS. Humanity Level Infinty
+Oh damn he's like that shit made Corona!
+<3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
